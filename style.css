@@ -1,0 +1,43 @@
+/* MASTER EFFECTS */
+h2{color: white;font-family: constantia;}
+h3{color: brown;font-family:bahnschrift;}
+body{
+    background-color: rgb(204, 204, 204)}
+p{
+    font-family: constantia;}
+.listItem{
+    font-family: constantia; 
+    font-size: 110%;}
+ul{
+    list-style-type: square;
+    }
+.maincontainer{
+    display: flex; justify-content: flex-start; align-items: flex-start;
+}
+.column{background-color: rgb(226, 226, 226); margin: 10px; padding: 20px; height:300px; width:200%;}
+
+/* Landing Page Specific */
+.name{
+    font-size: 500%;
+    }
+    /* this will be a photo in place eventually */
+.namePosition{
+    display: flex; justify-content: center; font-family: bahnschrift;
+    padding: 20px;}
+.bigbox{display: flex; align-items: center; justify-content: flex-start; 
+    margin: 10px; padding: 15px; height: 30px; width: 35%; 
+    background-color: brown}   
+.moveThatBar{display: flex; justify-content: flex-end;position:sticky; top:0px;} 
+.scrollingBar{display: flex; align-items:center;
+    width: 34%; padding:15px; 
+    margin-top: -10px; margin-right: 10px; padding: 22px; 
+    background-color: brown}
+/* Skill Sets Page Specific */
+
+/* Exhibitions Page Specific */
+
+/* Portfolio Page Specific */
+
+/* Work Experience Page Specific */
+.title{
+    font-family: bahnschrift;}
